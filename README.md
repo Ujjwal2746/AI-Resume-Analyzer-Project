@@ -3,10 +3,6 @@
 A beginner-friendly GenAI project. Upload a resume, paste a Job Description, and get a
 written analysis of how well the two match.
 
-This is Project 2 in the learning path. Project 1 was a CLI chatbot with a single LLM
-call. This project adds file handling, a Streamlit user interface, and a **two-step LLM
-workflow**.
-
 ---
 
 ## 1. What are we building?
